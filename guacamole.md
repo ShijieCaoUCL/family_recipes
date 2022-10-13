@@ -1,5 +1,6 @@
 #Ingredients
 - avocado
 - lime
-- sal
+- salad
+
 #Instructions
